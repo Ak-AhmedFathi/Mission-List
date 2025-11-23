@@ -1,4 +1,4 @@
-# Mision List ✅
+# Mission List ✅
 
 > A simple and interactive To-Do list application built with **React**, **TypeScript**, and **Tailwind CSS**.  
 > Keep track of your daily tasks and complete them efficiently!
